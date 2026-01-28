@@ -21,7 +21,7 @@ let aTies = 0;
 //Ex:your API could return rock,paper, scissors
 //Create variable to hold our URL
 
-const aCpuApiUrl = "https://rpsdemov1-bad6e5b0eff8bxdc.westus3-01.azurewebsites.net/api/rps/rps"
+const aCpuApiUrl = "https://rpsday4-fka6hzeag4a7dvax.westus3-01.azurewebsites.net/api/RPS/fetch"
 //------------------DOM References---------------//
 
 // Gets the CPU mode button from the HTML
